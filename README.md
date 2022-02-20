@@ -9,12 +9,12 @@ Folow this instruction step by step, You can be easily create a socket server wi
 Lets' start<br>
 <b>Step 1</b><hr><br>
 First run this command for getting node express file.<br>
-## npm install express@4
+<h2>npm install express@4</h2>
 
 <br>
 then, run this command for getting socket.io file
 <br>
-## npm install socket.io
+<h2>npm install socket.io</h2>
 <br>
 <br>
 <b>Step 2</b><hr><br>
@@ -35,6 +35,6 @@ We're almost done. Now go to Your command shell than run this command- <br>
  hurray!<br>
  So, you can test now by open your project in browser. <br>
  Or Browse this link<br>
- ## http://localhost:3000/
+ <h2>http://localhost:3000/ <?h2>
  <br><br>
  Thanks,<br>Zunaid Miah<br>
