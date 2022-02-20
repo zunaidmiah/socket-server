@@ -19,12 +19,12 @@ then, run this command for getting socket.io file
 <br>
 <b>Step 2</b><hr><br>
 Now create a index.js file in your project root folder. Than paste all this code in that file <br>
-For getting all code for index.js file. [Click here](https://github.com/Zunaid420/socket-server/blob/main/index.js)
+For getting all code for index.js file. [click here](https://github.com/Zunaid420/socket-server/blob/main/index.js)
 <br>
 <br>
 <b>Step 3</b><hr><br>
 Now create a index.html file in your project root folder. Than paste all this code in that file <br>
-For getting all code for index.html file. [Click here](https://github.com/Zunaid420/socket-server/blob/main/index.html)
+For getting all code for index.html file. [click here](https://github.com/Zunaid420/socket-server/blob/main/index.html)
 <br>
 <br>
 <b>Step 4</b><hr><br>
