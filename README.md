@@ -9,15 +9,12 @@ Folow this instruction step by step, You can be easily create a socket server wi
 Lets' start<br>
 <b>Step 1</b><hr><br>
 First run this command for getting node express file.<br>
-```
-npm install express@4
-```
+```npm install express@4```
+
 <br>
 then, run this command for getting socket.io file
 <br>
-```
-npm install socket.io
-```
+`npm install socket.io`
 <br>
 <br>
 <b>Step 2</b><hr><br>
