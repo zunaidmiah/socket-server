@@ -22,7 +22,7 @@ npm install socket.io
 <br>
 <b>Step 2</b><hr><br>
 Now create a index.js file in your project root folder. Than paste all this code in that file <br>
-````
+````<br>
 const express = require('express');
 const app = express();
 const http = require('http');
@@ -56,7 +56,7 @@ server.listen(3000, () => {
 <br>
 <b>Step 3</b><hr><br>
 Now create a index.html file in your project root folder. Than paste all this code in that file <br>
-````
+````<br>
 <!DOCTYPE html>
 <html>
 
